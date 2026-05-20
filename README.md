@@ -5,8 +5,6 @@
 ![Laser](https://img.shields.io/badge/Laser%20Cutting-Cardboard-black?style=flat-square)
 ![Lathe](https://img.shields.io/badge/Centre%20Lathe-Steel%20Rod-grey?style=flat-square)
 
-**Module:** Integrated Manufacturing &nbsp;|&nbsp; **Supervised by:** Dr. Hesham Mohammed · Eng. Khaled &nbsp;|&nbsp; **Team:** Section 5, Group 2
-
 ---
 
 ### Overview
